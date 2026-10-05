@@ -31,8 +31,8 @@ This project reinforces essential core Python programming foundations:
 
 1. **Clone or Download the Repository**:
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
-   cd number-guessing-game
+   git clone https://github.com/RA-1442006/Task-5-Build-a-Number-Guessing-Game.git
+   cd Task-5-Build-a-Number-Guessing-Game
    ```
 
 2. **Run the Game**:
