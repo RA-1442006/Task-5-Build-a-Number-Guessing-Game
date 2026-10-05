@@ -1,7 +1,8 @@
 # Number Guessing Game (Python)
 
 > **Task 5: Build a Number Guessing Game**  
-> *Python Programming Track — Level 1 Internship Task*
+> *Python Programming Track — Level 1 Internship Task*  
+> 🔗 **LinkedIn Post**: [View Post](https://lnkd.in/p/g-UM2qBM)
 
 An interactive, terminal-based number guessing game developed in pure Python. The computer selects a random secret number within a chosen range, and the player receives real-time directional hints ("Too high" or "Too low") until finding the correct number or exhausting their attempts.
 
